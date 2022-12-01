@@ -78,13 +78,13 @@ blockquote {
 	border: 0px;
 	color: #000;
 	background: #F3BA2F;
- 	background: -moz-linear-gradient(top, #F3BA2F 0%, #F3BA2F 0%, #F3BA2F 50%, #FFC300 51%, #FFC300 100%);
+	background: -moz-linear-gradient(top, #F3BA2F 0%, #F3BA2F 0%, #F3BA2F 50%, #FFC300 51%, #FFC300 100%);
 	background: -webkit-gradient(left top, left bottom, color-stop(0%, #F3BA2F), color-stop(0%, #F3BA2F), color-stop(50%, #F3BA2F), color-stop(51%, #FFC300), color-stop(100%, #FFC300));
-	background: -webkit-linear-gradient(top, #F3BA2F 0%, #F3BA2F 0%, #F3BA2F 50%, ##FFC300 51%, ##FFC300 100%);
-	background: -o-linear-gradient(top, #F3BA2F 0%, #F3BA2F 0%, #F3BA2F 50%, ##FFC300 51%, ##FFC300 100%);
-	background: -ms-linear-gradient(top, #F3BA2F 0%, #F3BA2F 0%, #ffff99 50%, ##FFC300 51%, ##FFC300 100%);
-	background: linear-gradient(to bottom, #F3BA2F 0%, #F3BA2F 0%, #F3BA2F 50%, #FFC300 51%, ##FFC300 100%);
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#F3BA2F', endColorstr='#FFC300', GradientType=0 ); 
+	background: -webkit-linear-gradient(top, #F3BA2F 0%, #F3BA2F 0%, #F3BA2F 50%, #FFC300 51%, #FFC300 100%);
+	background: -o-linear-gradient(top, #F3BA2F 0%, #F3BA2F 0%, #F3BA2F 50%, #FFC300 51%, #FFC300 100%);
+	background: -ms-linear-gradient(top, #F3BA2F 0%, #F3BA2F 0%, #F3BA2F 50%, #FFC300 51%, #FFC300 100%);
+	background: linear-gradient(to bottom, #F3BA2F 0%, #F3BA2F 0%, #F3BA2F 50%, #FFC300 51%, #FFC300 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#F3BA2F', endColorstr='#FFC300', GradientType=0 );
 }
 
 #banner h1 {
