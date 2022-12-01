@@ -53,7 +53,7 @@ blockquote {
 
 /* Wrapper Settings */
 #wrapper {
-	background: #ffff99;
+	background: #fff;
 	border: none;
 	padding: 10px;
 	margin: 1% auto;
@@ -76,7 +76,7 @@ blockquote {
 	padding: 10px;
 	height: 175px;
 	border: 0px;
-	color: #fff;
+	color: #ffff99;
 	background: #abab83;
 	background: -moz-linear-gradient(top, #abab83 0%, #abab83 0%, #abab83 50%, #a1a172 51%, #a1a172 100%);
 	background: -webkit-gradient(left top, left bottom, color-stop(0%, #abab83), color-stop(0%, #abab83), color-stop(50%, #abab83), color-stop(51%, #a1a172), color-stop(100%, #a1a172));
