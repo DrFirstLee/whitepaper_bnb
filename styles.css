@@ -92,7 +92,7 @@ blockquote {
 }
 
 #image  {
-    width : 900;
+    width : 900px;
 /*     height : 150px; */
 	object-fit: cover;
 }
