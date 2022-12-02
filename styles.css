@@ -91,6 +91,10 @@ blockquote {
 	font-size: 32px;
 }
 
+#image  {
+	object-fit: cover;
+}
+
 #banner h1 em {
 	font-style: normal;
 	text-decoration: none;
