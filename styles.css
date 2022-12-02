@@ -92,6 +92,8 @@ blockquote {
 }
 
 #image  {
+    width : 300px;
+    height : 150px;
 	object-fit: cover;
 }
 
